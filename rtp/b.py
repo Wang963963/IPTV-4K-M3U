@@ -27,7 +27,7 @@ GITHUB_COMMIT_PREFIX = "Auto update"
 EPG_URL = "http://epg.51zmt.top:8000/e.xml.gz"
 TVG_LOGO_BASE_URL = "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/"
 README_FILE = "README.md"
-RAW_BASE_URL = "https://raw.githubusercontent.com/jia070310/4K-IPTV-M3U/main"
+RAW_BASE_URL = "https://raw.githubusercontent.com/Wang963963/IPTV-4K-M3U/main"
 PROXY_PREFIX = "https://gh-proxy.org/"
 
 # 中国省份全称及简称对照表，用于智能嗅探
